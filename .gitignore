@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+
+# Swift Package Manager (no source here, but in case anyone resolves locally)
+.build/
+.swiftpm/
+Package.resolved
+
+# Local XCFramework artifacts (never check these in — they live on GitHub Releases)
+*.xcframework
+*.xcframework.zip
