@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "trustedshops_ios_sdk"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0-rc.1"
   spec.summary      = "Trusted Shops SDK for iOS"
   spec.description  = <<-DESC
     The Trusted Shops iOS SDK provides UI components for displaying trustmarks,
