@@ -20,7 +20,7 @@ let package = Package(
         .binaryTarget(
             name: "trustedshops_ios_sdk",
             url: "https://github.com/trustedshops-public/ios-sdk/releases/download/v1.0.0-rc.1/trustedshops_ios_sdk-1.0.0-rc.1.xcframework.zip",
-            checksum: "cf4925b5bd3bd6fec541b7889855dd062e1285414f7401631e250be39cb7cc5e"
+            checksum: "e8ddd8c837e1c4af70e90ccd4af4ae8fb53e60dd0ab09b1969a3b8774b90689e"
         )
     ]
 )
